@@ -1,0 +1,27 @@
+{
+    "Gender": [
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Female"
+    ],
+    "HeightCm": [
+        171,
+        161,
+        180,
+        166,
+        150,
+        167
+    ],
+    "WeightKg": [
+        96,
+        85,
+        77,
+        62,
+        70,
+        82
+    ]
+}
