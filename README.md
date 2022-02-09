@@ -90,4 +90,4 @@ Total Number of Normal_weight person in the Json File: 2
   <img width="697" alt="Height" src="https://user-images.githubusercontent.com/99289737/153114254-a16e4818-e298-4890-8ca3-7fdc124e5652.PNG">
 <img width="713" alt="Weight" src="https://user-images.githubusercontent.com/99289737/153114260-a3ebe904-8420-4f66-a781-d1b177169110.PNG">
 
-
+<img width="582" alt="Summary" src="https://user-images.githubusercontent.com/99289737/153114291-57b7f8b8-c4e8-42e9-8093-4fd07508a0b2.PNG">
