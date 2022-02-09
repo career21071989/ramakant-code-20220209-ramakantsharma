@@ -57,3 +57,36 @@ name or description instead follow the URL pattern as follows:
 https://www.github.com/<owner>/code<date>-<your fullname> e.g. for me it could be
 https://www.github.com/richard/code-20200917-richardfreeman
 Please get back to us if you have issues or doubts, you have upto 1 week to complete this task.
+  
+Below are the Steps of Execution
+  
+Install the below Package
+
+pip install pywebio
+
+# Execute the code
+  
+# Execute the BMI_Main function
+BMI_Main()
+  
+The web page will be opened which will ask your the Height(meters) and Weight(Kg) as input. Please provide it.
+
+Once submitted, it will measure your BMI and provide the summary in the below format:
+  
+Your BMI is 29.18 and the person is : overweight
+
+Total Number of Overweighted person in the Json File: 1
+
+Total Number of Moderately obese person in the Json File: 3
+
+Total Number of Severely obese person in the Json File: 0
+
+Total Number of Very severely obese person in the Json File: 0
+
+Total Number of Underweight person in the Json File: 0
+
+Total Number of Normal_weight person in the Json File: 2
+  
+  
+<img width="697" alt="Height" src="https://user-images.githubusercontent.com/99289737/153113977-3d602c25-f51f-4ba2-b628-7410cedbd61d.PNG"><img width="582" alt="Summary" src="https://user-images.githubusercontent.com/99289737/153113979-cb89faa6-2348-4709-bbfd-714663788f5a.PNG">
+<img width="713" alt="Weight" src="https://user-images.githubusercontent.com/99289737/153113987-579020f9-449b-436b-bec9-1133a1089b8e.PNG">
