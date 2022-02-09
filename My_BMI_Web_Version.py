@@ -110,7 +110,7 @@ def BMI_Main():
                            (35, 'moderately obese'),
                            (float('inf'), 'severely obese')]:
                 if BMI <= x:
-                    put_text('Your BMI is', BMI, 'and the person is :', y)
+                    put_text('Your BMI is', BMI, 'and the you are :', y)
                     break
   
     # classify and compute BMI
@@ -130,7 +130,7 @@ def BMI_Main():
                            (float('inf'), 'severely obese')]:
   
                 if BMI <= x:
-                    put_text('Your BMI is', BMI, 'and the person is :', y)
+                    put_text('Your BMI is', BMI, 'and the you are :', y)
                     put_text('Total Number of Overweighted person in the Json File:', Overall_OverWgt_Count)
                     put_text('Total Number of Moderately obese person in the Json File:', Overall_MO_Count)
                     put_text('Total Number of Severely obese person in the Json File:', Overall_SO_Count)
